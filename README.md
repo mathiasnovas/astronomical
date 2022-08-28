@@ -1,3 +1,3 @@
 # astronomical
 
-astronomical blog made with astro 🚀
+astronomical blog made with Astro 🚀
